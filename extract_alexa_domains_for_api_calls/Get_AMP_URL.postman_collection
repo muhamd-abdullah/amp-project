@@ -1,0 +1,66 @@
+{
+	"info": {
+		"_postman_id": "fe5bb3db-d75f-4b15-8eb2-a034154ef440",
+		"name": "AMP",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "AMPI URLs",
+			"request": {
+				"auth": {
+					"type": "apikey",
+					"apikey": [
+						{
+							"key": "value",
+							"value": "",
+							"type": "string"
+						},
+						{
+							"key": "key",
+							"value": "",
+							"type": "string"
+						},
+						{
+							"key": "in",
+							"value": "query",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "X-Goog-Api-Key",
+						"value": "AIzaSyA4Y_bnFkmDxhWw_vapKnu_jTAsbIErwLs",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"urls\": [\r\n        \"https://www.khanacademy.org\",\r\n        \"https://www.elwatannews.com\",\r\n        \"https://www.xfinity.com\",\r\n        \"https://www.n11.com\",\r\n        \"https://www.nypost.com\",\r\n        \"https://www.softonic.com\",\r\n        \"https://www.asos.com\",\r\n        \"https://www.hurriyet.com.tr\",\r\n        \"https://www.tripadvisor.com\",\r\n        \"https://www.namasha.com\",\r\n        \"https://www.otvfoco.com.br\",\r\n        \"https://www.ninisite.com\",\r\n        \"https://www.filimo.com\",\r\n        \"https://www.tiktok.com\",\r\n        \"https://www.google.com.au\",\r\n        \"https://www.naukri.com\",\r\n        \"https://www.gmx.net\",\r\n        \"https://www.indiamart.com\",\r\n        \"https://www.thepiratebay.org\",\r\n        \"https://www.douyu.com\",\r\n        \"https://www.google.gr\",\r\n        \"https://www.nownews.com\",\r\n        \"https://www.vnexpress.net\",\r\n        \"https://www.hp.com\",\r\n        \"https://www.infobae.com\",\r\n        \"https://www.blackboard.com\",\r\n        \"https://www.usatoday.com\",\r\n        \"https://www.kakao.com\",\r\n        \"https://www.adp.com\",\r\n        \"https://www.reverso.net\",\r\n        \"https://www.outbrain.com\",\r\n        \"https://www.goodreads.com\",\r\n        \"https://www.banvenez.com\",\r\n        \"https://www.dagospia.com\",\r\n        \"https://www.namu.wiki\",\r\n        \"https://www.1337x.to\",\r\n        \"https://www.surveymonkey.com\",\r\n        \"https://www.pulzo.com\",\r\n        \"https://www.souq.com\",\r\n        \"https://www.gmanetwork.com\",\r\n        \"https://www.spankbang.com\",\r\n        \"https://www.onemboaran.com\",\r\n        \"https://www.aol.com\",\r\n        \"https://www.trendyol.com\",\r\n        \"https://www.mercadolibre.com.mx\",\r\n        \"https://www.cambridge.org\",\r\n        \"https://www.ouedkniss.com\",\r\n        \"https://www.chinadaily.com.cn\",\r\n        \"https://www.inquirer.net\",\r\n        \"https://www.nhk.or.jp\"\r\n    ]\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://acceleratedmobilepageurl.googleapis.com/v1/ampUrls:batchGet",
+					"protocol": "https",
+					"host": [
+						"acceleratedmobilepageurl",
+						"googleapis",
+						"com"
+					],
+					"path": [
+						"v1",
+						"ampUrls:batchGet"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}
