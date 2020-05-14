@@ -18,4 +18,6 @@ for i, url in enumerate(non_amp_urls):
 
     if url not in urls:
         urls.add(url)
-        write_to_all(url)
+        amp_url_file.write(amp_urls[i])
+        cdn_amp_url_file.write(cdn_amp_urls[i])
+        non_amp_url_file.write(non_amp_urls[i])
