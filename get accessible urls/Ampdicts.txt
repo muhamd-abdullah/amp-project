@@ -1,0 +1,1364 @@
+[
+    {
+        "ampUrl": "https://aofsoru.com/amp/", 
+        "originalUrl": "https://www.aofsoru.com", 
+        "cdnAmpUrl": "https://aofsoru-com.cdn.ampproject.org/c/s/aofsoru.com/amp/"
+    }, 
+    {
+        "ampUrl": "https://amp.businessbecause.com/", 
+        "originalUrl": "https://www.businessbecause.com", 
+        "cdnAmpUrl": "https://amp-businessbecause-com.cdn.ampproject.org/c/s/amp.businessbecause.com/"
+    }, 
+    {
+        "ampUrl": "https://fdr.com.br/amp/", 
+        "originalUrl": "https://www.fdr.com.br", 
+        "cdnAmpUrl": "https://fdr-com-br.cdn.ampproject.org/c/s/fdr.com.br/amp/"
+    }
+][
+    {
+        "ampUrl": "https://aofsoru.com/amp/", 
+        "originalUrl": "https://www.aofsoru.com", 
+        "cdnAmpUrl": "https://aofsoru-com.cdn.ampproject.org/c/s/aofsoru.com/amp/"
+    }, 
+    {
+        "ampUrl": "https://amp.businessbecause.com/", 
+        "originalUrl": "https://www.businessbecause.com", 
+        "cdnAmpUrl": "https://amp-businessbecause-com.cdn.ampproject.org/c/s/amp.businessbecause.com/"
+    }, 
+    {
+        "ampUrl": "https://fdr.com.br/amp/", 
+        "originalUrl": "https://www.fdr.com.br", 
+        "cdnAmpUrl": "https://fdr-com-br.cdn.ampproject.org/c/s/fdr.com.br/amp/"
+    }
+][
+    {
+        "ampUrl": "https://www.accuwebhosting.com/amp", 
+        "originalUrl": "https://www.accuwebhosting.com", 
+        "cdnAmpUrl": "https://www-accuwebhosting-com.cdn.ampproject.org/c/s/www.accuwebhosting.com/amp"
+    }
+][
+    {
+        "ampUrl": "https://newsheater.com/?amp", 
+        "originalUrl": "https://www.newsheater.com", 
+        "cdnAmpUrl": "https://newsheater-com.cdn.ampproject.org/c/s/newsheater.com/?amp"
+    }
+][
+    {
+        "ampUrl": "https://www.interviewbit.com/amp/", 
+        "originalUrl": "https://www.interviewbit.com", 
+        "cdnAmpUrl": "https://www-interviewbit-com.cdn.ampproject.org/c/s/www.interviewbit.com/amp/"
+    }
+][
+    {
+        "ampUrl": "https://www.logo.wine/amp", 
+        "originalUrl": "https://www.logo.wine", 
+        "cdnAmpUrl": "https://www-logo-wine.cdn.ampproject.org/c/s/www.logo.wine/amp"
+    }
+][
+    {
+        "ampUrl": "https://www.logaster.com/amp/", 
+        "originalUrl": "https://www.logaster.com", 
+        "cdnAmpUrl": "https://www-logaster-com.cdn.ampproject.org/c/s/www.logaster.com/amp/"
+    }
+][
+    {
+        "ampUrl": "https://capital.com/amp/", 
+        "originalUrl": "https://www.capital.com", 
+        "cdnAmpUrl": "https://capital-com.cdn.ampproject.org/c/s/capital.com/amp/"
+    }, 
+    {
+        "ampUrl": "https://bezformata.com/?amp=1", 
+        "originalUrl": "https://www.bezformata.com", 
+        "cdnAmpUrl": "https://bezformata-com.cdn.ampproject.org/c/s/bezformata.com/?amp=1"
+    }, 
+    {
+        "ampUrl": "https://amp.jmbullion.com/", 
+        "originalUrl": "https://www.jmbullion.com", 
+        "cdnAmpUrl": "https://amp-jmbullion-com.cdn.ampproject.org/c/s/amp.jmbullion.com/"
+    }
+][
+    {
+        "ampUrl": "https://ukrainians.today/amp/", 
+        "originalUrl": "https://www.ukrainians.today", 
+        "cdnAmpUrl": "https://ukrainians-today.cdn.ampproject.org/c/s/ukrainians.today/amp/"
+    }
+][
+    {
+        "ampUrl": "https://www.viagginews.com/amp/", 
+        "originalUrl": "https://www.viagginews.com", 
+        "cdnAmpUrl": "https://www-viagginews-com.cdn.ampproject.org/c/s/www.viagginews.com/amp/"
+    }
+][
+    {
+        "ampUrl": "https://newsbel.by/amp/", 
+        "originalUrl": "https://www.newsbel.by", 
+        "cdnAmpUrl": "https://newsbel-by.cdn.ampproject.org/c/s/newsbel.by/amp/"
+    }
+][
+    {
+        "ampUrl": "https://www.icicilombard.com/amp/", 
+        "originalUrl": "https://www.icicilombard.com", 
+        "cdnAmpUrl": "https://www-icicilombard-com.cdn.ampproject.org/c/s/www.icicilombard.com/amp/"
+    }
+][
+    {
+        "ampUrl": "https://amp.charter97.org/ru/news/", 
+        "originalUrl": "https://www.charter97.org", 
+        "cdnAmpUrl": "https://amp-charter97-org.cdn.ampproject.org/c/s/amp.charter97.org/ru/news/"
+    }
+][
+    {
+        "ampUrl": "https://amp.cancer.org", 
+        "originalUrl": "https://www.cancer.org", 
+        "cdnAmpUrl": "https://amp-cancer-org.cdn.ampproject.org/c/s/amp.cancer.org"
+    }, 
+    {
+        "ampUrl": "http://www.petlove.com.br/amp", 
+        "originalUrl": "https://www.petlove.com.br", 
+        "cdnAmpUrl": "https://www-petlove-com-br.cdn.ampproject.org/c/www.petlove.com.br/amp"
+    }
+][
+    {
+        "ampUrl": "https://www.posthaus.com.br/amp/", 
+        "originalUrl": "https://www.posthaus.com.br", 
+        "cdnAmpUrl": "https://www-posthaus-com-br.cdn.ampproject.org/c/s/www.posthaus.com.br/amp/"
+    }
+][
+    {
+        "ampUrl": "https://kiz10.com/amp", 
+        "originalUrl": "https://www.kiz10.com", 
+        "cdnAmpUrl": "https://kiz10-com.cdn.ampproject.org/c/s/kiz10.com/amp"
+    }
+][
+    {
+        "ampUrl": "https://www.telugubulletin.com/?amp", 
+        "originalUrl": "https://www.telugubulletin.com", 
+        "cdnAmpUrl": "https://www-telugubulletin-com.cdn.ampproject.org/c/s/www.telugubulletin.com/?amp"
+    }
+][
+    {
+        "ampUrl": "https://www.ntvspor.net/amp", 
+        "originalUrl": "https://www.ntvspor.net", 
+        "cdnAmpUrl": "https://www-ntvspor-net.cdn.ampproject.org/c/s/www.ntvspor.net/amp"
+    }
+][
+    {
+        "ampUrl": "https://www.myperfectresume.com/amp", 
+        "originalUrl": "https://www.myperfectresume.com", 
+        "cdnAmpUrl": "https://www-myperfectresume-com.cdn.ampproject.org/c/s/www.myperfectresume.com/amp"
+    }, 
+    {
+        "ampUrl": "https://www.superhaber.tv/amp", 
+        "originalUrl": "https://www.superhaber.tv", 
+        "cdnAmpUrl": "https://www-superhaber-tv.cdn.ampproject.org/c/s/www.superhaber.tv/amp"
+    }
+][
+    {
+        "ampUrl": "https://www.princetonreview.com/amp", 
+        "originalUrl": "https://www.princetonreview.com", 
+        "cdnAmpUrl": "https://www-princetonreview-com.cdn.ampproject.org/c/s/www.princetonreview.com/amp"
+    }
+][
+    {
+        "ampUrl": "https://www.straighttalk.com/wps/wcm/connect/straighttalk/amp/home", 
+        "originalUrl": "https://www.straighttalk.com", 
+        "cdnAmpUrl": "https://www-straighttalk-com.cdn.ampproject.org/c/s/www.straighttalk.com/wps/wcm/connect/straighttalk/amp/home"
+    }
+][
+    {
+        "ampUrl": "https://m.deepika.com/amp", 
+        "originalUrl": "https://www.deepika.com", 
+        "cdnAmpUrl": "https://m-deepika-com.cdn.ampproject.org/c/s/m.deepika.com/amp"
+    }
+][
+    {
+        "ampUrl": "https://iranthemes.com/amp/", 
+        "originalUrl": "https://www.iranthemes.com", 
+        "cdnAmpUrl": "https://iranthemes-com.cdn.ampproject.org/c/s/iranthemes.com/amp/"
+    }
+][
+    {
+        "ampUrl": "https://criptotendencia.com/amp/", 
+        "originalUrl": "https://www.criptotendencia.com", 
+        "cdnAmpUrl": "https://criptotendencia-com.cdn.ampproject.org/c/s/criptotendencia.com/amp/"
+    }
+][
+    {
+        "ampUrl": "https://www.yeclo.com/?amp", 
+        "originalUrl": "https://www.yeclo.com", 
+        "cdnAmpUrl": "https://www-yeclo-com.cdn.ampproject.org/c/s/www.yeclo.com/?amp"
+    }
+][
+    {
+        "ampUrl": "https://simplicable.com/amp/top", 
+        "originalUrl": "https://www.simplicable.com", 
+        "cdnAmpUrl": "https://simplicable-com.cdn.ampproject.org/c/s/simplicable.com/amp/top"
+    }
+][
+    {
+        "ampUrl": "https://www.periodicocubano.com/amp/?PageSpeed=noscript", 
+        "originalUrl": "https://www.periodicocubano.com", 
+        "cdnAmpUrl": "https://www-periodicocubano-com.cdn.ampproject.org/c/s/www.periodicocubano.com/amp/?PageSpeed=noscript"
+    }, 
+    {
+        "ampUrl": "https://amp.baodautu.vn/", 
+        "originalUrl": "https://www.baodautu.vn", 
+        "cdnAmpUrl": "https://amp-baodautu-vn.cdn.ampproject.org/c/s/amp.baodautu.vn/"
+    }
+][
+    {
+        "ampUrl": "https://thegamefanatics.com/?amp", 
+        "originalUrl": "https://www.thegamefanatics.com", 
+        "cdnAmpUrl": "https://thegamefanatics-com.cdn.ampproject.org/c/s/thegamefanatics.com/?amp"
+    }, 
+    {
+        "ampUrl": "https://m.timesofindia.com/amp_home", 
+        "originalUrl": "https://www.timesofindia.com", 
+        "cdnAmpUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/amp_home"
+    }
+][
+    {
+        "ampUrl": "https://www.content.ad/amp/", 
+        "originalUrl": "https://www.content.ad", 
+        "cdnAmpUrl": "https://www-content-ad.cdn.ampproject.org/c/s/www.content.ad/amp/"
+    }
+][
+    {
+        "ampUrl": "https://www.b9.com.br/amp/", 
+        "originalUrl": "https://www.b9.com.br", 
+        "cdnAmpUrl": "https://www-b9-com-br.cdn.ampproject.org/c/s/www.b9.com.br/amp/"
+    }
+][
+    {
+        "ampUrl": "https://www.bohgames.com/amp/", 
+        "originalUrl": "https://www.bohgames.com", 
+        "cdnAmpUrl": "https://www-bohgames-com.cdn.ampproject.org/c/s/www.bohgames.com/amp/"
+    }
+][
+    {
+        "ampUrl": "https://amp.superbalist.com/", 
+        "originalUrl": "https://www.superbalist.com", 
+        "cdnAmpUrl": "https://amp-superbalist-com.cdn.ampproject.org/c/s/amp.superbalist.com/"
+    }, 
+    {
+        "ampUrl": "https://www.lvnmatch.com/amp/", 
+        "originalUrl": "https://www.lvnmatch.com", 
+        "cdnAmpUrl": "https://www-lvnmatch-com.cdn.ampproject.org/c/s/www.lvnmatch.com/amp/"
+    }
+][
+    {
+        "ampUrl": "https://infotime.co/amp/", 
+        "originalUrl": "https://www.infotime.co", 
+        "cdnAmpUrl": "https://infotime-co.cdn.ampproject.org/c/s/infotime.co/amp/"
+    }
+][
+    {
+        "ampUrl": "https://www.successcds.net/amp/", 
+        "originalUrl": "https://www.successcds.net", 
+        "cdnAmpUrl": "https://www-successcds-net.cdn.ampproject.org/c/s/www.successcds.net/amp/"
+    }
+][
+    {
+        "ampUrl": "https://www.curapelanatureza.com.br/amp/", 
+        "originalUrl": "https://www.curapelanatureza.com.br", 
+        "cdnAmpUrl": "https://www-curapelanatureza-com-br.cdn.ampproject.org/c/s/www.curapelanatureza.com.br/amp/"
+    }
+][
+    {
+        "ampUrl": "https://m.loveplanet.ru/amp", 
+        "originalUrl": "https://www.loveplanet.ru", 
+        "cdnAmpUrl": "https://m-loveplanet-ru.cdn.ampproject.org/c/s/m.loveplanet.ru/amp"
+    }
+][
+    {
+        "ampUrl": "https://m.tupaki.com/amp", 
+        "originalUrl": "https://www.tupaki.com", 
+        "cdnAmpUrl": "https://m-tupaki-com.cdn.ampproject.org/c/s/m.tupaki.com/amp"
+    }
+][
+    {
+        "ampUrl": "https://www.medlife.com/amp", 
+        "originalUrl": "https://www.medlife.com", 
+        "cdnAmpUrl": "https://www-medlife-com.cdn.ampproject.org/c/s/www.medlife.com/amp"
+    }
+][
+    {
+        "ampUrl": "https://escolaeducacao.com.br/amp/", 
+        "originalUrl": "https://www.escolaeducacao.com.br", 
+        "cdnAmpUrl": "https://escolaeducacao-com-br.cdn.ampproject.org/c/s/escolaeducacao.com.br/amp/"
+    }
+][
+    {
+        "ampUrl": "https://americanmilitarynews.com/amp/", 
+        "originalUrl": "https://www.americanmilitarynews.com", 
+        "cdnAmpUrl": "https://americanmilitarynews-com.cdn.ampproject.org/c/s/americanmilitarynews.com/amp/"
+    }
+][
+    {
+        "ampUrl": "https://www.officeholidays.com/amp", 
+        "originalUrl": "https://www.officeholidays.com", 
+        "cdnAmpUrl": "https://www-officeholidays-com.cdn.ampproject.org/c/s/www.officeholidays.com/amp"
+    }
+][
+    {
+        "ampUrl": "https://www.newsbugz.com/amp/", 
+        "originalUrl": "https://www.newsbugz.com", 
+        "cdnAmpUrl": "https://www-newsbugz-com.cdn.ampproject.org/c/s/www.newsbugz.com/amp/"
+    }, 
+    {
+        "ampUrl": "https://www.boriko.com/weblog/amp", 
+        "originalUrl": "https://www.boriko.com", 
+        "cdnAmpUrl": "https://www-boriko-com.cdn.ampproject.org/c/s/www.boriko.com/weblog/amp"
+    }
+][
+    {
+        "ampUrl": "https://amp.znaj.ua", 
+        "originalUrl": "https://www.znaj.ua", 
+        "cdnAmpUrl": "https://amp-znaj-ua.cdn.ampproject.org/c/s/amp.znaj.ua"
+    }
+][
+    {
+        "ampUrl": "https://www.cyberghostvpn.com/en_US/amp", 
+        "originalUrl": "https://www.cyberghostvpn.com", 
+        "cdnAmpUrl": "https://www-cyberghostvpn-com.cdn.ampproject.org/c/s/www.cyberghostvpn.com/en_US/amp"
+    }
+][
+    {
+        "ampUrl": "https://osegredo.com.br/amp/", 
+        "originalUrl": "https://www.osegredo.com.br", 
+        "cdnAmpUrl": "https://osegredo-com-br.cdn.ampproject.org/c/s/osegredo.com.br/amp/"
+    }
+][
+    {
+        "ampUrl": "https://amp.whitehatjr.com", 
+        "originalUrl": "https://www.whitehatjr.com", 
+        "cdnAmpUrl": "https://amp-whitehatjr-com.cdn.ampproject.org/c/s/amp.whitehatjr.com"
+    }
+][
+    {
+        "ampUrl": "https://www.digitbin.com/amp/", 
+        "originalUrl": "https://www.digitbin.com", 
+        "cdnAmpUrl": "https://www-digitbin-com.cdn.ampproject.org/c/s/www.digitbin.com/amp/"
+    }
+][
+    {
+        "ampUrl": "https://m.123greetings.com/amp/", 
+        "originalUrl": "https://www.123greetings.com", 
+        "cdnAmpUrl": "https://m-123greetings-com.cdn.ampproject.org/c/s/m.123greetings.com/amp/"
+    }
+][
+    {
+        "ampUrl": "https://www.jornalcontabil.com.br/?amp", 
+        "originalUrl": "https://www.jornalcontabil.com.br", 
+        "cdnAmpUrl": "https://www-jornalcontabil-com-br.cdn.ampproject.org/c/s/www.jornalcontabil.com.br/?amp"
+    }
+][
+    {
+        "ampUrl": "https://problogger.com/?amp", 
+        "originalUrl": "https://www.problogger.com", 
+        "cdnAmpUrl": "https://problogger-com.cdn.ampproject.org/c/s/problogger.com/?amp"
+    }
+][
+    {
+        "ampUrl": "https://www.technipages.com/amp", 
+        "originalUrl": "https://www.technipages.com", 
+        "cdnAmpUrl": "https://www-technipages-com.cdn.ampproject.org/c/s/www.technipages.com/amp"
+    }
+][
+    {
+        "ampUrl": "https://femmie.ru/amp/", 
+        "originalUrl": "https://www.femmie.ru", 
+        "cdnAmpUrl": "https://femmie-ru.cdn.ampproject.org/c/s/femmie.ru/amp/"
+    }
+][
+    {
+        "ampUrl": "https://amp.sport1.de/", 
+        "originalUrl": "https://www.sport1.de", 
+        "cdnAmpUrl": "https://amp-sport1-de.cdn.ampproject.org/c/s/amp.sport1.de/"
+    }, 
+    {
+        "ampUrl": "https://maharashtratimes.com/amp_default.cms", 
+        "originalUrl": "https://www.maharashtratimes.com", 
+        "cdnAmpUrl": "https://maharashtratimes-com.cdn.ampproject.org/c/s/maharashtratimes.com/amp_default.cms"
+    }
+][
+    {
+        "ampUrl": "https://nerdist.com/?amp", 
+        "originalUrl": "https://www.nerdist.com", 
+        "cdnAmpUrl": "https://nerdist-com.cdn.ampproject.org/c/s/nerdist.com/?amp"
+    }
+][
+    {
+        "ampUrl": "https://greenlemon.me/amp/", 
+        "originalUrl": "https://www.greenlemon.me", 
+        "cdnAmpUrl": "https://greenlemon-me.cdn.ampproject.org/c/s/greenlemon.me/amp/"
+    }
+][
+    {
+        "ampUrl": "https://www.hinditracks.in/amp", 
+        "originalUrl": "https://www.hinditracks.in", 
+        "cdnAmpUrl": "https://www-hinditracks-in.cdn.ampproject.org/c/s/www.hinditracks.in/amp"
+    }
+][
+    {
+        "ampUrl": "https://applealmond.com/amp", 
+        "originalUrl": "https://www.applealmond.com", 
+        "cdnAmpUrl": "https://applealmond-com.cdn.ampproject.org/c/s/applealmond.com/amp"
+    }
+][
+    {
+        "ampUrl": "https://www.tuacasa.com.br/amp/", 
+        "originalUrl": "https://www.tuacasa.com.br", 
+        "cdnAmpUrl": "https://www-tuacasa-com-br.cdn.ampproject.org/c/s/www.tuacasa.com.br/amp/"
+    }, 
+    {
+        "ampUrl": "https://clustrmaps.com/amp/", 
+        "originalUrl": "https://www.clustrmaps.com", 
+        "cdnAmpUrl": "https://clustrmaps-com.cdn.ampproject.org/c/s/clustrmaps.com/amp/"
+    }, 
+    {
+        "ampUrl": "https://taxguru.in/?amp", 
+        "originalUrl": "https://www.taxguru.in", 
+        "cdnAmpUrl": "https://taxguru-in.cdn.ampproject.org/c/s/taxguru.in/?amp"
+    }
+][
+    {
+        "ampUrl": "https://amp.xhamster.com/", 
+        "originalUrl": "https://www.xhamster2.com", 
+        "cdnAmpUrl": "https://amp-xhamster-com.cdn.ampproject.org/c/s/amp.xhamster.com/"
+    }
+][
+    {
+        "ampUrl": "https://otakukart.com/amp/", 
+        "originalUrl": "https://www.otakukart.com", 
+        "cdnAmpUrl": "https://otakukart-com.cdn.ampproject.org/c/s/otakukart.com/amp/"
+    }
+][
+    {
+        "ampUrl": "https://www.ieidiseis.gr/?amp", 
+        "originalUrl": "https://www.ieidiseis.gr", 
+        "cdnAmpUrl": "https://www-ieidiseis-gr.cdn.ampproject.org/c/s/www.ieidiseis.gr/?amp"
+    }, 
+    {
+        "ampUrl": "https://amp.win.gg", 
+        "originalUrl": "https://www.win.gg", 
+        "cdnAmpUrl": "https://amp-win-gg.cdn.ampproject.org/c/s/amp.win.gg"
+    }
+][
+    {
+        "ampUrl": "https://sj.uukanshu.com/default_amp.aspx", 
+        "originalUrl": "https://www.uukanshu.com", 
+        "cdnAmpUrl": "https://sj-uukanshu-com.cdn.ampproject.org/c/s/sj.uukanshu.com/default_amp.aspx"
+    }, 
+    {
+        "ampUrl": "https://m.trackingmore.com/amp/", 
+        "originalUrl": "https://www.trackingmore.com", 
+        "cdnAmpUrl": "https://m-trackingmore-com.cdn.ampproject.org/c/s/m.trackingmore.com/amp/"
+    }
+][
+    {
+        "ampUrl": "https://waplog.com/?amp=amp", 
+        "originalUrl": "https://www.waplog.com", 
+        "cdnAmpUrl": "https://waplog-com.cdn.ampproject.org/c/s/waplog.com/?amp=amp"
+    }
+][
+    {
+        "ampUrl": "https://www.mapsofworld.com/amp/", 
+        "originalUrl": "https://www.mapsofworld.com", 
+        "cdnAmpUrl": "https://www-mapsofworld-com.cdn.ampproject.org/c/s/www.mapsofworld.com/amp/"
+    }, 
+    {
+        "ampUrl": "https://www.diaspora7.com/amp/", 
+        "originalUrl": "https://www.diaspora7.com", 
+        "cdnAmpUrl": "https://www-diaspora7-com.cdn.ampproject.org/c/s/www.diaspora7.com/amp/"
+    }
+][
+    {
+        "ampUrl": "https://www.prozeny.cz/?amp=1", 
+        "originalUrl": "https://www.prozeny.cz", 
+        "cdnAmpUrl": "https://www-prozeny-cz.cdn.ampproject.org/c/s/www.prozeny.cz/?amp=1"
+    }, 
+    {
+        "ampUrl": "https://www.thelivemirror.com/amp/", 
+        "originalUrl": "https://www.thelivemirror.com", 
+        "cdnAmpUrl": "https://www-thelivemirror-com.cdn.ampproject.org/c/s/www.thelivemirror.com/amp/"
+    }
+][
+    {
+        "ampUrl": "https://yen.com.gh/amp", 
+        "originalUrl": "https://www.yen.com.gh", 
+        "cdnAmpUrl": "https://yen-com-gh.cdn.ampproject.org/c/s/yen.com.gh/amp"
+    }
+][
+    {
+        "ampUrl": "https://www.turkmmo.com/amp", 
+        "originalUrl": "https://www.turkmmo.com", 
+        "cdnAmpUrl": "https://www-turkmmo-com.cdn.ampproject.org/c/s/www.turkmmo.com/amp"
+    }
+][
+    {
+        "ampUrl": "https://amp.base64decode.org/", 
+        "originalUrl": "https://www.base64decode.org", 
+        "cdnAmpUrl": "https://amp-base64decode-org.cdn.ampproject.org/c/s/amp.base64decode.org/"
+    }
+][
+    {
+        "ampUrl": "https://payu.in/home-amp", 
+        "originalUrl": "https://www.payumoney.com", 
+        "cdnAmpUrl": "https://payu-in.cdn.ampproject.org/c/s/payu.in/home-amp"
+    }
+][
+    {
+        "ampUrl": "https://indigodergisi.com/amp/", 
+        "originalUrl": "https://www.indigodergisi.com", 
+        "cdnAmpUrl": "https://indigodergisi-com.cdn.ampproject.org/c/s/indigodergisi.com/amp/"
+    }
+][
+    {
+        "ampUrl": "https://www.gcertificationcourse.com/amp/", 
+        "originalUrl": "https://www.gcertificationcourse.com", 
+        "cdnAmpUrl": "https://www-gcertificationcourse-com.cdn.ampproject.org/c/s/www.gcertificationcourse.com/amp/"
+    }
+][
+    {
+        "ampUrl": "https://adrenaline.com.br/amp/", 
+        "originalUrl": "https://www.adrenaline.com.br", 
+        "cdnAmpUrl": "https://adrenaline-com-br.cdn.ampproject.org/c/s/adrenaline.com.br/amp/"
+    }
+][
+    {
+        "ampUrl": "https://www.hindutamil.in/amp", 
+        "originalUrl": "https://www.hindutamil.in", 
+        "cdnAmpUrl": "https://www-hindutamil-in.cdn.ampproject.org/c/s/www.hindutamil.in/amp"
+    }, 
+    {
+        "ampUrl": "https://tecnolikeplus.com/amp/", 
+        "originalUrl": "https://www.tecnolikeplus.com", 
+        "cdnAmpUrl": "https://tecnolikeplus-com.cdn.ampproject.org/c/s/tecnolikeplus.com/amp/"
+    }
+][
+    {
+        "ampUrl": "https://www.hdfc.com/amp", 
+        "originalUrl": "https://www.hdfc.com", 
+        "cdnAmpUrl": "https://www-hdfc-com.cdn.ampproject.org/c/s/www.hdfc.com/amp"
+    }
+][
+    {
+        "ampUrl": "https://equran.me/amp", 
+        "originalUrl": "https://www.equran.me", 
+        "cdnAmpUrl": "https://equran-me.cdn.ampproject.org/c/s/equran.me/amp"
+    }
+][
+    {
+        "ampUrl": "https://telset.id/amp/", 
+        "originalUrl": "https://www.telset.id", 
+        "cdnAmpUrl": "https://telset-id.cdn.ampproject.org/c/s/telset.id/amp/"
+    }
+][
+    {
+        "ampUrl": "https://kilambanews.com/amp/", 
+        "originalUrl": "https://www.kilambanews.com", 
+        "cdnAmpUrl": "https://kilambanews-com.cdn.ampproject.org/c/s/kilambanews.com/amp/"
+    }
+][
+    {
+        "ampUrl": "https://remixshop.com/bg/amp/product/home", 
+        "originalUrl": "https://www.remixshop.com", 
+        "cdnAmpUrl": "https://remixshop-com.cdn.ampproject.org/c/s/remixshop.com/bg/amp/product/home"
+    }
+][
+    {
+        "ampUrl": "https://www.appinn.com/amp/", 
+        "originalUrl": "https://www.appinn.com", 
+        "cdnAmpUrl": "https://www-appinn-com.cdn.ampproject.org/c/s/www.appinn.com/amp/"
+    }, 
+    {
+        "ampUrl": "https://extrememanual.net/?amp", 
+        "originalUrl": "https://www.extrememanual.net", 
+        "cdnAmpUrl": "https://extrememanual-net.cdn.ampproject.org/c/s/extrememanual.net/?amp"
+    }, 
+    {
+        "ampUrl": "https://m.edaily.co.kr/amp/", 
+        "originalUrl": "https://www.edaily.co.kr", 
+        "cdnAmpUrl": "https://m-edaily-co-kr.cdn.ampproject.org/c/s/m.edaily.co.kr/amp/"
+    }
+][
+    {
+        "ampUrl": "https://www.appinn.com/amp/", 
+        "originalUrl": "https://www.appinn.com", 
+        "cdnAmpUrl": "https://www-appinn-com.cdn.ampproject.org/c/s/www.appinn.com/amp/"
+    }, 
+    {
+        "ampUrl": "https://extrememanual.net/?amp", 
+        "originalUrl": "https://www.extrememanual.net", 
+        "cdnAmpUrl": "https://extrememanual-net.cdn.ampproject.org/c/s/extrememanual.net/?amp"
+    }, 
+    {
+        "ampUrl": "https://m.edaily.co.kr/amp/", 
+        "originalUrl": "https://www.edaily.co.kr", 
+        "cdnAmpUrl": "https://m-edaily-co-kr.cdn.ampproject.org/c/s/m.edaily.co.kr/amp/"
+    }
+][
+    {
+        "ampUrl": "https://www.prokerala.com/?amp=1", 
+        "originalUrl": "https://www.prokerala.com", 
+        "cdnAmpUrl": "https://www-prokerala-com.cdn.ampproject.org/c/s/www.prokerala.com/?amp=1"
+    }, 
+    {
+        "ampUrl": "https://www.aide-sociale.fr/amp/", 
+        "originalUrl": "https://www.aide-sociale.fr", 
+        "cdnAmpUrl": "https://www-aide--sociale-fr.cdn.ampproject.org/c/s/www.aide-sociale.fr/amp/"
+    }
+][
+    {
+        "ampUrl": "https://www.dashlane.com/amp", 
+        "originalUrl": "https://www.dashlane.com", 
+        "cdnAmpUrl": "https://www-dashlane-com.cdn.ampproject.org/c/s/www.dashlane.com/amp"
+    }
+][
+    {
+        "ampUrl": "https://www.tokyo-sports.co.jp/?amp", 
+        "originalUrl": "https://www.tokyo-sports.co.jp", 
+        "cdnAmpUrl": "https://www-tokyo--sports-co-jp.cdn.ampproject.org/c/s/www.tokyo-sports.co.jp/?amp"
+    }
+][
+    {
+        "ampUrl": "http://www.myelesson.org/?wpamp", 
+        "originalUrl": "https://www.myelesson.org", 
+        "cdnAmpUrl": "https://www-myelesson-org.cdn.ampproject.org/c/www.myelesson.org/?wpamp"
+    }, 
+    {
+        "ampUrl": "https://www.maalaimalar.com/amp/", 
+        "originalUrl": "https://www.maalaimalar.com", 
+        "cdnAmpUrl": "https://www-maalaimalar-com.cdn.ampproject.org/c/s/www.maalaimalar.com/amp/"
+    }
+][
+    {
+        "ampUrl": "https://www.newegg.ca/amp/", 
+        "originalUrl": "https://www.newegg.ca", 
+        "cdnAmpUrl": "https://www-newegg-ca.cdn.ampproject.org/c/s/www.newegg.ca/amp/"
+    }
+][
+    {
+        "ampUrl": "https://www.lifie.lk/amp/", 
+        "originalUrl": "https://www.lifie.lk", 
+        "cdnAmpUrl": "https://www-lifie-lk.cdn.ampproject.org/c/s/www.lifie.lk/amp/"
+    }
+][
+    {
+        "ampUrl": "https://jatimnow.com/?amp=1", 
+        "originalUrl": "https://www.jatimnow.com", 
+        "cdnAmpUrl": "https://jatimnow-com.cdn.ampproject.org/c/s/jatimnow.com/?amp=1"
+    }
+][
+    {
+        "ampUrl": "https://www.thebump.com/amp", 
+        "originalUrl": "https://www.thebump.com", 
+        "cdnAmpUrl": "https://www-thebump-com.cdn.ampproject.org/c/s/www.thebump.com/amp"
+    }, 
+    {
+        "ampUrl": "https://www.zakon.kz/amp/", 
+        "originalUrl": "https://www.zakon.kz", 
+        "cdnAmpUrl": "https://www-zakon-kz.cdn.ampproject.org/c/s/www.zakon.kz/amp/"
+    }
+][
+    {
+        "ampUrl": "https://www.free-power-point-templates.com/?amp", 
+        "originalUrl": "https://www.free-power-point-templates.com", 
+        "cdnAmpUrl": "https://www-free--power--point--templates-com.cdn.ampproject.org/c/s/www.free-power-point-templates.com/?amp"
+    }, 
+    {
+        "ampUrl": "https://www.claro.com.co/personas-amp/", 
+        "originalUrl": "https://www.claro.com.co", 
+        "cdnAmpUrl": "https://www-claro-com-co.cdn.ampproject.org/c/s/www.claro.com.co/personas-amp/"
+    }, 
+    {
+        "ampUrl": "https://www.pbagora.com.br/amp/", 
+        "originalUrl": "https://www.pbagora.com.br", 
+        "cdnAmpUrl": "https://www-pbagora-com-br.cdn.ampproject.org/c/s/www.pbagora.com.br/amp/"
+    }
+][
+    {
+        "ampUrl": "https://www.ncertbooks.guru/amp/", 
+        "originalUrl": "https://www.ncertbooks.guru", 
+        "cdnAmpUrl": "https://www-ncertbooks-guru.cdn.ampproject.org/c/s/www.ncertbooks.guru/amp/"
+    }
+][
+    {
+        "ampUrl": "https://rokhdad.news/m", 
+        "originalUrl": "https://www.rokhdad.news", 
+        "cdnAmpUrl": "https://rokhdad-news.cdn.ampproject.org/c/s/rokhdad.news/m"
+    }
+][
+    {
+        "ampUrl": "https://www.aftodioikisi.gr/amp/", 
+        "originalUrl": "https://www.aftodioikisi.gr", 
+        "cdnAmpUrl": "https://www-aftodioikisi-gr.cdn.ampproject.org/c/s/www.aftodioikisi.gr/amp/"
+    }, 
+    {
+        "ampUrl": "https://tengrinews.kz/amp/", 
+        "originalUrl": "https://www.tengrinews.kz", 
+        "cdnAmpUrl": "https://tengrinews-kz.cdn.ampproject.org/c/s/tengrinews.kz/amp/"
+    }
+][
+    {
+        "ampUrl": "https://m.economictimes.com/amp", 
+        "originalUrl": "https://www.economictimes.com", 
+        "cdnAmpUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/amp"
+    }
+][
+    {
+        "ampUrl": "https://www.acunn.com/amp/", 
+        "originalUrl": "https://www.acunn.com", 
+        "cdnAmpUrl": "https://www-acunn-com.cdn.ampproject.org/c/s/www.acunn.com/amp/"
+    }, 
+    {
+        "ampUrl": "https://www.softwaretestinghelp.com/amp/", 
+        "originalUrl": "https://www.softwaretestinghelp.com", 
+        "cdnAmpUrl": "https://www-softwaretestinghelp-com.cdn.ampproject.org/c/s/www.softwaretestinghelp.com/amp/"
+    }
+][
+    {
+        "ampUrl": "https://m.freepressjournal.in", 
+        "originalUrl": "https://www.freepressjournal.in", 
+        "cdnAmpUrl": "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in"
+    }
+][
+    {
+        "ampUrl": "https://www.kutub-pdf.net/amp/", 
+        "originalUrl": "https://www.kutub-pdf.net", 
+        "cdnAmpUrl": "https://www-kutub--pdf-net.cdn.ampproject.org/c/s/www.kutub-pdf.net/amp/"
+    }
+][
+    {
+        "ampUrl": "https://www.telegraphindia.com/amp", 
+        "originalUrl": "https://www.telegraphindia.com", 
+        "cdnAmpUrl": "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp"
+    }, 
+    {
+        "ampUrl": "https://zamusic.org/amp/", 
+        "originalUrl": "https://www.zamusic.org", 
+        "cdnAmpUrl": "https://zamusic-org.cdn.ampproject.org/c/s/zamusic.org/amp/"
+    }
+][
+    {
+        "ampUrl": "https://expertoption.com/amp", 
+        "originalUrl": "https://www.expertoption.com", 
+        "cdnAmpUrl": "https://expertoption-com.cdn.ampproject.org/c/s/expertoption.com/amp"
+    }, 
+    {
+        "ampUrl": "https://www.pmnewsnigeria.com/amp/", 
+        "originalUrl": "https://www.pmnewsnigeria.com", 
+        "cdnAmpUrl": "https://www-pmnewsnigeria-com.cdn.ampproject.org/c/s/www.pmnewsnigeria.com/amp/"
+    }, 
+    {
+        "ampUrl": "https://www.aftership.com/amp", 
+        "originalUrl": "https://www.aftership.com", 
+        "cdnAmpUrl": "https://www-aftership-com.cdn.ampproject.org/c/s/www.aftership.com/amp"
+    }
+][
+    {
+        "ampUrl": "https://www.empiricus.com.br/assinaturas-amp", 
+        "originalUrl": "https://www.empiricus.com.br", 
+        "cdnAmpUrl": "https://www-empiricus-com-br.cdn.ampproject.org/c/s/www.empiricus.com.br/assinaturas-amp"
+    }, 
+    {
+        "ampUrl": "https://www.cool3c.com/amp", 
+        "originalUrl": "https://www.cool3c.com", 
+        "cdnAmpUrl": "https://www-cool3c-com.cdn.ampproject.org/c/s/www.cool3c.com/amp"
+    }
+][
+    {
+        "ampUrl": "https://amp.doubtnut.com", 
+        "originalUrl": "https://www.doubtnut.com", 
+        "cdnAmpUrl": "https://amp-doubtnut-com.cdn.ampproject.org/c/s/amp.doubtnut.com"
+    }
+][
+    {
+        "ampUrl": "https://www.warriortrading.com/amp/", 
+        "originalUrl": "https://www.warriortrading.com", 
+        "cdnAmpUrl": "https://www-warriortrading-com.cdn.ampproject.org/c/s/www.warriortrading.com/amp/"
+    }
+][
+    {
+        "ampUrl": "https://www.deccanchronicle.com/amp", 
+        "originalUrl": "https://www.deccanchronicle.com", 
+        "cdnAmpUrl": "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp"
+    }, 
+    {
+        "ampUrl": "https://starsunfolded.com/amp/", 
+        "originalUrl": "https://www.starsunfolded.com", 
+        "cdnAmpUrl": "https://starsunfolded-com.cdn.ampproject.org/c/s/starsunfolded.com/amp/"
+    }
+][
+    {
+        "ampUrl": "https://www.zarpanews.gr/amp/", 
+        "originalUrl": "https://www.zarpanews.gr", 
+        "cdnAmpUrl": "https://www-zarpanews-gr.cdn.ampproject.org/c/s/www.zarpanews.gr/amp/"
+    }, 
+    {
+        "ampUrl": "https://joglosemarnews.com/?amp", 
+        "originalUrl": "https://www.joglosemarnews.com", 
+        "cdnAmpUrl": "https://joglosemarnews-com.cdn.ampproject.org/c/s/joglosemarnews.com/?amp"
+    }
+][
+    {
+        "ampUrl": "https://blackdoctor.org/amp/", 
+        "originalUrl": "https://www.blackdoctor.org", 
+        "cdnAmpUrl": "https://blackdoctor-org.cdn.ampproject.org/c/s/blackdoctor.org/amp/"
+    }
+][
+    {
+        "ampUrl": "https://www.tv8.com.tr/amp/", 
+        "originalUrl": "https://www.tv8.com.tr", 
+        "cdnAmpUrl": "https://www-tv8-com-tr.cdn.ampproject.org/c/s/www.tv8.com.tr/amp/"
+    }
+][
+    {
+        "ampUrl": "https://azaronline.com/amp/", 
+        "originalUrl": "https://www.azaronline.com", 
+        "cdnAmpUrl": "https://azaronline-com.cdn.ampproject.org/c/s/azaronline.com/amp/"
+    }
+][
+    {
+        "ampUrl": "https://www.galatta.com/amp", 
+        "originalUrl": "https://www.galatta.com", 
+        "cdnAmpUrl": "https://www-galatta-com.cdn.ampproject.org/c/s/www.galatta.com/amp"
+    }
+][
+    {
+        "ampUrl": "https://doyouremember.com/amp", 
+        "originalUrl": "https://www.doyouremember.com", 
+        "cdnAmpUrl": "https://doyouremember-com.cdn.ampproject.org/c/s/doyouremember.com/amp"
+    }
+][
+    {
+        "ampUrl": "https://www.livecareer.com/amp", 
+        "originalUrl": "https://www.livecareer.com", 
+        "cdnAmpUrl": "https://www-livecareer-com.cdn.ampproject.org/c/s/www.livecareer.com/amp"
+    }
+][
+    {
+        "ampUrl": "https://www.nudevista.com/amp/", 
+        "originalUrl": "https://www.nudevista.com", 
+        "cdnAmpUrl": "https://www-nudevista-com.cdn.ampproject.org/c/s/www.nudevista.com/amp/"
+    }, 
+    {
+        "ampUrl": "https://igetintopc.com/?amp", 
+        "originalUrl": "https://www.igetintopc.com", 
+        "cdnAmpUrl": "https://igetintopc-com.cdn.ampproject.org/c/s/igetintopc.com/?amp"
+    }
+][
+    {
+        "ampUrl": "https://www.channelionline.com/amp/", 
+        "originalUrl": "https://www.channelionline.com", 
+        "cdnAmpUrl": "https://www-channelionline-com.cdn.ampproject.org/c/s/www.channelionline.com/amp/"
+    }
+][
+    {
+        "ampUrl": "https://www.thenews.com.pk/amp/latest-stories", 
+        "originalUrl": "https://www.thenews.com.pk", 
+        "cdnAmpUrl": "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/latest-stories"
+    }
+][
+    {
+        "ampUrl": "https://cricketaddictor.com/?amp", 
+        "originalUrl": "https://www.cricketaddictor.com", 
+        "cdnAmpUrl": "https://cricketaddictor-com.cdn.ampproject.org/c/s/cricketaddictor.com/?amp"
+    }
+][
+    {
+        "ampUrl": "https://m.punjabkesari.in?amp", 
+        "originalUrl": "https://www.punjabkesari.in", 
+        "cdnAmpUrl": "https://m-punjabkesari-in.cdn.ampproject.org/c/s/m.punjabkesari.in?amp"
+    }
+][
+    {
+        "ampUrl": "https://www.ideegreen.it/?amp", 
+        "originalUrl": "https://www.ideegreen.it", 
+        "cdnAmpUrl": "https://www-ideegreen-it.cdn.ampproject.org/c/s/www.ideegreen.it/?amp"
+    }
+][
+    {
+        "ampUrl": "https://senego.com/amp", 
+        "originalUrl": "https://www.senego.com", 
+        "cdnAmpUrl": "https://senego-com.cdn.ampproject.org/c/s/senego.com/amp"
+    }
+][
+    {
+        "ampUrl": "https://www.mobills.com.br/amp/", 
+        "originalUrl": "https://www.mobills.com.br", 
+        "cdnAmpUrl": "https://www-mobills-com-br.cdn.ampproject.org/c/s/www.mobills.com.br/amp/"
+    }
+][
+    {
+        "ampUrl": "https://amp.xhamster.com/", 
+        "originalUrl": "https://www.xhamster.one", 
+        "cdnAmpUrl": "https://amp-xhamster-com.cdn.ampproject.org/c/s/amp.xhamster.com/"
+    }, 
+    {
+        "ampUrl": "https://s.kabutan.jp/?format=amp", 
+        "originalUrl": "https://www.kabutan.jp", 
+        "cdnAmpUrl": "https://s-kabutan-jp.cdn.ampproject.org/c/s/s.kabutan.jp/?format=amp"
+    }
+][][
+    {
+        "ampUrl": "https://amp.bibliaonline.com.br/acf", 
+        "originalUrl": "https://www.bibliaonline.com.br", 
+        "cdnAmpUrl": "https://amp-bibliaonline-com-br.cdn.ampproject.org/c/s/amp.bibliaonline.com.br/acf"
+    }
+][
+    {
+        "ampUrl": "https://m.dinamalar.com/", 
+        "originalUrl": "https://www.dinamalar.com", 
+        "cdnAmpUrl": "https://m-dinamalar-com.cdn.ampproject.org/c/s/m.dinamalar.com/"
+    }
+][
+    {
+        "ampUrl": "https://amp.fakeaddressgenerator.com", 
+        "originalUrl": "https://www.fakeaddressgenerator.com", 
+        "cdnAmpUrl": "https://amp-fakeaddressgenerator-com.cdn.ampproject.org/c/s/amp.fakeaddressgenerator.com"
+    }, 
+    {
+        "ampUrl": "https://haberglobal.com.tr/amp", 
+        "originalUrl": "https://www.haberglobal.com.tr", 
+        "cdnAmpUrl": "https://haberglobal-com-tr.cdn.ampproject.org/c/s/haberglobal.com.tr/amp"
+    }
+][
+    {
+        "ampUrl": "https://www.elwatan140.com/amp/", 
+        "originalUrl": "https://www.elwatan140.com", 
+        "cdnAmpUrl": "https://www-elwatan140-com.cdn.ampproject.org/c/s/www.elwatan140.com/amp/"
+    }, 
+    {
+        "ampUrl": "https://tomanifesto.gr/?amp", 
+        "originalUrl": "https://www.tomanifesto.gr", 
+        "cdnAmpUrl": "https://tomanifesto-gr.cdn.ampproject.org/c/s/tomanifesto.gr/?amp"
+    }
+][
+    {
+        "ampUrl": "https://www.kiwilimon.com/amp/", 
+        "originalUrl": "https://www.kiwilimon.com", 
+        "cdnAmpUrl": "https://www-kiwilimon-com.cdn.ampproject.org/c/s/www.kiwilimon.com/amp/"
+    }
+][
+    {
+        "ampUrl": "https://www.geo.tv/amp/coronavirus", 
+        "originalUrl": "https://www.geo.tv", 
+        "cdnAmpUrl": "https://www-geo-tv.cdn.ampproject.org/c/s/www.geo.tv/amp/coronavirus"
+    }
+][
+    {
+        "ampUrl": "https://clear.com.br/site/home-amp", 
+        "originalUrl": "https://www.clear.com.br", 
+        "cdnAmpUrl": "https://clear-com-br.cdn.ampproject.org/c/s/clear.com.br/site/home-amp"
+    }, 
+    {
+        "ampUrl": "https://pikbest.com/amp/", 
+        "originalUrl": "https://www.pikbest.com", 
+        "cdnAmpUrl": "https://pikbest-com.cdn.ampproject.org/c/s/pikbest.com/amp/"
+    }
+][
+    {
+        "ampUrl": "https://citizentv.co.ke/?amp", 
+        "originalUrl": "https://www.citizentv.co.ke", 
+        "cdnAmpUrl": "https://citizentv-co-ke.cdn.ampproject.org/c/s/citizentv.co.ke/?amp"
+    }
+][
+    {
+        "ampUrl": "https://amp.olhardigital.com.br/", 
+        "originalUrl": "https://www.olhardigital.com.br", 
+        "cdnAmpUrl": "https://amp-olhardigital-com-br.cdn.ampproject.org/c/s/amp.olhardigital.com.br/"
+    }
+][
+    {
+        "ampUrl": "https://www.tvm.com.mt/mt/amp/", 
+        "originalUrl": "https://www.tvm.com.mt", 
+        "cdnAmpUrl": "https://www-tvm-com-mt.cdn.ampproject.org/c/s/www.tvm.com.mt/mt/amp/"
+    }
+][
+    {
+        "ampUrl": "https://www.observalgerie.com/amp/", 
+        "originalUrl": "https://www.observalgerie.com", 
+        "cdnAmpUrl": "https://www-observalgerie-com.cdn.ampproject.org/c/s/www.observalgerie.com/amp/"
+    }, 
+    {
+        "ampUrl": "https://www.slidescarnival.com/?amp", 
+        "originalUrl": "https://www.slidescarnival.com", 
+        "cdnAmpUrl": "https://www-slidescarnival-com.cdn.ampproject.org/c/s/www.slidescarnival.com/?amp"
+    }
+][
+    {
+        "ampUrl": "http://www.nettruyen.com/amp", 
+        "originalUrl": "https://www.nettruyen.com", 
+        "cdnAmpUrl": "https://www-nettruyen-com.cdn.ampproject.org/c/www.nettruyen.com/amp"
+    }
+][
+    {
+        "ampUrl": "https://www.tvm.com.mt/mt/amp/", 
+        "originalUrl": "https://www.tvm.com.mt", 
+        "cdnAmpUrl": "https://www-tvm-com-mt.cdn.ampproject.org/c/s/www.tvm.com.mt/mt/amp/"
+    }
+][
+    {
+        "ampUrl": "https://www.minijuegos.com/amp", 
+        "originalUrl": "https://www.minijuegos.com", 
+        "cdnAmpUrl": "https://www-minijuegos-com.cdn.ampproject.org/c/s/www.minijuegos.com/amp"
+    }, 
+    {
+        "ampUrl": "https://www.icims.com/amp/index.html", 
+        "originalUrl": "https://www.icims.com", 
+        "cdnAmpUrl": "https://www-icims-com.cdn.ampproject.org/c/s/www.icims.com/amp/index.html"
+    }
+][
+    {
+        "ampUrl": "https://amp.hitekno.com/", 
+        "originalUrl": "https://www.hitekno.com", 
+        "cdnAmpUrl": "https://amp-hitekno-com.cdn.ampproject.org/c/s/amp.hitekno.com/"
+    }
+][
+    {
+        "ampUrl": "https://www.shahrekhabar.com/ampindex", 
+        "originalUrl": "https://www.shahrekhabar.com", 
+        "cdnAmpUrl": "https://www-shahrekhabar-com.cdn.ampproject.org/c/s/www.shahrekhabar.com/ampindex"
+    }
+][
+    {
+        "ampUrl": "https://www.ogunhaber.com/amp", 
+        "originalUrl": "https://www.ogunhaber.com", 
+        "cdnAmpUrl": "https://www-ogunhaber-com.cdn.ampproject.org/c/s/www.ogunhaber.com/amp"
+    }
+][
+    {
+        "ampUrl": "https://www.seznamzpravy.cz/?amp=1", 
+        "originalUrl": "https://www.seznamzpravy.cz", 
+        "cdnAmpUrl": "https://www-seznamzpravy-cz.cdn.ampproject.org/c/s/www.seznamzpravy.cz/?amp=1"
+    }
+][
+    {
+        "ampUrl": "https://www.systemrequirementslab.com/cyri/amp", 
+        "originalUrl": "https://www.systemrequirementslab.com", 
+        "cdnAmpUrl": "https://www-systemrequirementslab-com.cdn.ampproject.org/c/s/www.systemrequirementslab.com/cyri/amp"
+    }, 
+    {
+        "ampUrl": "https://teluguadda.co.in/amp/", 
+        "originalUrl": "https://www.teluguadda.co.in", 
+        "cdnAmpUrl": "https://teluguadda-co-in.cdn.ampproject.org/c/s/teluguadda.co.in/amp/"
+    }
+][
+    {
+        "ampUrl": "https://m.webnovel.com/amp/", 
+        "originalUrl": "https://www.webnovel.com", 
+        "cdnAmpUrl": "https://m-webnovel-com.cdn.ampproject.org/c/s/m.webnovel.com/amp/"
+    }
+][
+    {
+        "ampUrl": "https://cryptobrowser.site/en/amp/", 
+        "originalUrl": "https://www.cryptobrowser.site", 
+        "cdnAmpUrl": "https://cryptobrowser-site.cdn.ampproject.org/c/s/cryptobrowser.site/en/amp/"
+    }
+][
+    {
+        "ampUrl": "https://www.anandabazar.com/amp/", 
+        "originalUrl": "https://www.anandabazar.com", 
+        "cdnAmpUrl": "https://www-anandabazar-com.cdn.ampproject.org/c/s/www.anandabazar.com/amp/"
+    }
+][
+    {
+        "ampUrl": "https://www.hotnewhiphop.com/?_amp", 
+        "originalUrl": "https://www.hotnewhiphop.com", 
+        "cdnAmpUrl": "https://www-hotnewhiphop-com.cdn.ampproject.org/c/s/www.hotnewhiphop.com/?_amp"
+    }
+][
+    {
+        "ampUrl": "https://amp.xhamster.desi/", 
+        "originalUrl": "https://www.xhamster.desi", 
+        "cdnAmpUrl": "https://amp-xhamster-desi.cdn.ampproject.org/c/s/amp.xhamster.desi/"
+    }, 
+    {
+        "ampUrl": "https://sportzwiki.com/amp", 
+        "originalUrl": "https://www.sportzwiki.com", 
+        "cdnAmpUrl": "https://sportzwiki-com.cdn.ampproject.org/c/s/sportzwiki.com/amp"
+    }
+][
+    {
+        "ampUrl": "https://www.1mg.com/amp", 
+        "originalUrl": "https://www.1mg.com", 
+        "cdnAmpUrl": "https://www-1mg-com.cdn.ampproject.org/c/s/www.1mg.com/amp"
+    }
+][
+    {
+        "ampUrl": "https://briefly.co.za/amp", 
+        "originalUrl": "https://www.briefly.co.za", 
+        "cdnAmpUrl": "https://briefly-co-za.cdn.ampproject.org/c/s/briefly.co.za/amp"
+    }
+][
+    {
+        "ampUrl": "https://www.quirkybyte.com/amp/", 
+        "originalUrl": "https://www.quirkybyte.com", 
+        "cdnAmpUrl": "https://www-quirkybyte-com.cdn.ampproject.org/c/s/www.quirkybyte.com/amp/"
+    }
+][
+    {
+        "ampUrl": "https://www.deccanherald.com/amp", 
+        "originalUrl": "https://www.deccanherald.com", 
+        "cdnAmpUrl": "https://www-deccanherald-com.cdn.ampproject.org/c/s/www.deccanherald.com/amp"
+    }
+][
+    {
+        "ampUrl": "https://www.vpnmentor.com/amp/", 
+        "originalUrl": "https://www.vpnmentor.com", 
+        "cdnAmpUrl": "https://www-vpnmentor-com.cdn.ampproject.org/c/s/www.vpnmentor.com/amp/"
+    }
+][
+    {
+        "ampUrl": "https://m.gulte.com/amp", 
+        "originalUrl": "https://www.gulte.com", 
+        "cdnAmpUrl": "https://m-gulte-com.cdn.ampproject.org/c/s/m.gulte.com/amp"
+    }, 
+    {
+        "ampUrl": "https://amp.ayobandung.com/", 
+        "originalUrl": "https://www.ayobandung.com", 
+        "cdnAmpUrl": "https://amp-ayobandung-com.cdn.ampproject.org/c/s/amp.ayobandung.com/"
+    }
+][
+    {
+        "ampUrl": "https://mobile.francetvinfo.fr/home.amp", 
+        "originalUrl": "https://www.francetvinfo.fr", 
+        "cdnAmpUrl": "https://mobile-francetvinfo-fr.cdn.ampproject.org/c/s/mobile.francetvinfo.fr/home.amp"
+    }, 
+    {
+        "ampUrl": "https://www.ntv.com.tr/amp", 
+        "originalUrl": "https://www.ntv.com.tr", 
+        "cdnAmpUrl": "https://www-ntv-com-tr.cdn.ampproject.org/c/s/www.ntv.com.tr/amp"
+    }
+][
+    {
+        "ampUrl": "https://www.watanserb.com/amp/", 
+        "originalUrl": "https://www.watanserb.com", 
+        "cdnAmpUrl": "https://www-watanserb-com.cdn.ampproject.org/c/s/www.watanserb.com/amp/"
+    }, 
+    {
+        "ampUrl": "https://amp.krone.at/", 
+        "originalUrl": "https://www.krone.at", 
+        "cdnAmpUrl": "https://amp-krone-at.cdn.ampproject.org/c/s/amp.krone.at/"
+    }
+][
+    {
+        "ampUrl": "https://www.christian-dogma.com/ampch/", 
+        "originalUrl": "https://www.christian-dogma.com", 
+        "cdnAmpUrl": "https://www-christian--dogma-com.cdn.ampproject.org/c/s/www.christian-dogma.com/ampch/"
+    }, 
+    {
+        "ampUrl": "https://m.livehindustan.com/amp", 
+        "originalUrl": "https://www.livehindustan.com", 
+        "cdnAmpUrl": "https://m-livehindustan-com.cdn.ampproject.org/c/s/m.livehindustan.com/amp"
+    }
+][
+    {
+        "ampUrl": "https://www.ria.com/amp/", 
+        "originalUrl": "https://www.ria.com", 
+        "cdnAmpUrl": "https://www-ria-com.cdn.ampproject.org/c/s/www.ria.com/amp/"
+    }, 
+    {
+        "ampUrl": "https://rmol.id/amp", 
+        "originalUrl": "https://www.rmol.id", 
+        "cdnAmpUrl": "https://rmol-id.cdn.ampproject.org/c/s/rmol.id/amp"
+    }
+][
+    {
+        "ampUrl": "https://m.patrika.com/amp-news/", 
+        "originalUrl": "https://www.patrika.com", 
+        "cdnAmpUrl": "https://m-patrika-com.cdn.ampproject.org/c/s/m.patrika.com/amp-news/"
+    }
+][
+    {
+        "ampUrl": "https://amp.xhamster.desi/", 
+        "originalUrl": "https://www.xhamster2.desi", 
+        "cdnAmpUrl": "https://amp-xhamster-desi.cdn.ampproject.org/c/s/amp.xhamster.desi/"
+    }
+][
+    {
+        "ampUrl": "https://telegraf.com.ua/amp/", 
+        "originalUrl": "https://www.telegraf.com.ua", 
+        "cdnAmpUrl": "https://telegraf-com-ua.cdn.ampproject.org/c/s/telegraf.com.ua/amp/"
+    }, 
+    {
+        "ampUrl": "https://www.techspot.com/amp/", 
+        "originalUrl": "https://www.techspot.com", 
+        "cdnAmpUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/"
+    }
+][
+    {
+        "ampUrl": "https://www.light-dark.net/amp/", 
+        "originalUrl": "https://www.light-dark.net", 
+        "cdnAmpUrl": "https://www-light--dark-net.cdn.ampproject.org/c/s/www.light-dark.net/amp/"
+    }
+][
+    {
+        "ampUrl": "https://emisorasunidas.com/amp/", 
+        "originalUrl": "https://www.emisorasunidas.com", 
+        "cdnAmpUrl": "https://emisorasunidas-com.cdn.ampproject.org/c/s/emisorasunidas.com/amp/"
+    }
+][
+    {
+        "ampUrl": "https://m.jagran.com/lite/home.html", 
+        "originalUrl": "https://www.jagran.com", 
+        "cdnAmpUrl": "https://m-jagran-com.cdn.ampproject.org/c/s/m.jagran.com/lite/home.html"
+    }
+][
+    {
+        "ampUrl": "https://gaadiwaadi.com/amp/", 
+        "originalUrl": "https://www.gaadiwaadi.com", 
+        "cdnAmpUrl": "https://gaadiwaadi-com.cdn.ampproject.org/c/s/gaadiwaadi.com/amp/"
+    }
+][
+    {
+        "ampUrl": "https://www.ennaharonline.com/%d9%85%d9%84%d9%8a%d9%88%d9%86-%d8%a5%d8%b9%d8%a7%d9%86%d8%a9-%d9%85%d9%86-%d8%a7%d9%84%d8%af%d9%88%d9%84%d8%a9-%d9%84%d9%80-%d9%84%d9%8a%d8%b7%d8%a7%d9%83%d9%8a%d8%b3%d9%88%d8%b1-%d9%84/amp", 
+        "originalUrl": "https://www.ennaharonline.com", 
+        "cdnAmpUrl": "https://www-ennaharonline-com.cdn.ampproject.org/c/s/www.ennaharonline.com/%d9%85%d9%84%d9%8a%d9%88%d9%86-%d8%a5%d8%b9%d8%a7%d9%86%d8%a9-%d9%85%d9%86-%d8%a7%d9%84%d8%af%d9%88%d9%84%d8%a9-%d9%84%d9%80-%d9%84%d9%8a%d8%b7%d8%a7%d9%83%d9%8a%d8%b3%d9%88%d8%b1-%d9%84/amp"
+    }
+][
+    {
+        "ampUrl": "https://cointelegraph.com/amp", 
+        "originalUrl": "https://www.cointelegraph.com", 
+        "cdnAmpUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/amp"
+    }
+][
+    {
+        "ampUrl": "https://amp.24h.com.vn/", 
+        "originalUrl": "https://www.24h.com.vn", 
+        "cdnAmpUrl": "https://amp-24h-com-vn.cdn.ampproject.org/c/s/amp.24h.com.vn/"
+    }
+][
+    {
+        "ampUrl": "https://www.nessma.tv/ar/amp", 
+        "originalUrl": "https://www.nessma.tv", 
+        "cdnAmpUrl": "https://www-nessma-tv.cdn.ampproject.org/c/s/www.nessma.tv/ar/amp"
+    }, 
+    {
+        "ampUrl": "https://www.wowkeren.com/amp", 
+        "originalUrl": "https://www.wowkeren.com", 
+        "cdnAmpUrl": "https://www-wowkeren-com.cdn.ampproject.org/c/s/www.wowkeren.com/amp"
+    }
+][
+    {
+        "ampUrl": "https://amp.matamata.com/", 
+        "originalUrl": "https://www.matamata.com", 
+        "cdnAmpUrl": "https://amp-matamata-com.cdn.ampproject.org/c/s/amp.matamata.com/"
+    }
+][
+    {
+        "ampUrl": "https://m.behindwoods.com/amp/", 
+        "originalUrl": "https://www.behindwoods.com", 
+        "cdnAmpUrl": "https://m-behindwoods-com.cdn.ampproject.org/c/s/m.behindwoods.com/amp/"
+    }, 
+    {
+        "ampUrl": "https://seucreditodigital.com.br/amp/", 
+        "originalUrl": "https://www.seucreditodigital.com.br", 
+        "cdnAmpUrl": "https://seucreditodigital-com-br.cdn.ampproject.org/c/s/seucreditodigital.com.br/amp/"
+    }
+][
+    {
+        "ampUrl": "https://m.andhrajyothy.com/amp/index", 
+        "originalUrl": "https://www.andhrajyothy.com", 
+        "cdnAmpUrl": "https://m-andhrajyothy-com.cdn.ampproject.org/c/s/m.andhrajyothy.com/amp/index"
+    }
+][
+    {
+        "ampUrl": "https://mobi.greatandhra.com/amp", 
+        "originalUrl": "https://www.greatandhra.com", 
+        "cdnAmpUrl": "https://mobi-greatandhra-com.cdn.ampproject.org/c/s/mobi.greatandhra.com/amp"
+    }
+][
+    {
+        "ampUrl": "https://m.jagranjosh.com/amp/home", 
+        "originalUrl": "https://www.jagranjosh.com", 
+        "cdnAmpUrl": "https://m-jagranjosh-com.cdn.ampproject.org/c/s/m.jagranjosh.com/amp/home"
+    }
+][
+    {
+        "ampUrl": "https://echo.msk.ru/amp/", 
+        "originalUrl": "https://www.echo.msk.ru", 
+        "cdnAmpUrl": "https://echo-msk-ru.cdn.ampproject.org/c/s/echo.msk.ru/amp/"
+    }
+][
+    {
+        "ampUrl": "https://amp.wartaekonomi.co.id/", 
+        "originalUrl": "https://www.wartaekonomi.co.id", 
+        "cdnAmpUrl": "https://amp-wartaekonomi-co-id.cdn.ampproject.org/c/s/amp.wartaekonomi.co.id/"
+    }
+][
+    {
+        "ampUrl": "https://payu.in/home-amp", 
+        "originalUrl": "https://www.payu.in", 
+        "cdnAmpUrl": "https://payu-in.cdn.ampproject.org/c/s/payu.in/home-amp"
+    }
+][
+    {
+        "ampUrl": "https://www.nur.kz/amp/", 
+        "originalUrl": "https://www.nur.kz", 
+        "cdnAmpUrl": "https://www-nur-kz.cdn.ampproject.org/c/s/www.nur.kz/amp/"
+    }, 
+    {
+        "ampUrl": "https://www.legit.ng/amp", 
+        "originalUrl": "https://www.legit.ng", 
+        "cdnAmpUrl": "https://www-legit-ng.cdn.ampproject.org/c/s/www.legit.ng/amp"
+    }
+][][][
+    {
+        "ampUrl": "https://m.hindustantimes.com/amp/", 
+        "originalUrl": "https://www.hindustantimes.com", 
+        "cdnAmpUrl": "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/amp/"
+    }, 
+    {
+        "ampUrl": "https://www.livemint.com/amp", 
+        "originalUrl": "https://www.livemint.com", 
+        "cdnAmpUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/amp"
+    }
+][
+    {
+        "ampUrl": "https://www.memurlar.net/amp/default.aspx?amp=1", 
+        "originalUrl": "https://www.memurlar.net", 
+        "cdnAmpUrl": "https://www-memurlar-net.cdn.ampproject.org/c/s/www.memurlar.net/amp/default.aspx?amp=1"
+    }, 
+    {
+        "ampUrl": "https://m.lenta.ru/amp/", 
+        "originalUrl": "https://www.lenta.ru", 
+        "cdnAmpUrl": "https://m-lenta-ru.cdn.ampproject.org/c/s/m.lenta.ru/amp/"
+    }, 
+    {
+        "ampUrl": "https://www.newegg.com/amp/", 
+        "originalUrl": "https://www.newegg.com", 
+        "cdnAmpUrl": "https://www-newegg-com.cdn.ampproject.org/c/s/www.newegg.com/amp/"
+    }
+][
+    {
+        "ampUrl": "https://www.rambler.ru/amp", 
+        "originalUrl": "https://www.rambler.ru", 
+        "cdnAmpUrl": "https://www-rambler-ru.cdn.ampproject.org/c/s/www.rambler.ru/amp"
+    }
+][
+    {
+        "ampUrl": "https://www.otvfoco.com.br/amp/", 
+        "originalUrl": "https://www.otvfoco.com.br", 
+        "cdnAmpUrl": "https://www-otvfoco-com-br.cdn.ampproject.org/c/s/www.otvfoco.com.br/amp/"
+    }
+][][
+    {
+        "ampUrl": "https://amp.xhamster.com/", 
+        "originalUrl": "https://www.xhamster.com", 
+        "cdnAmpUrl": "https://amp-xhamster-com.cdn.ampproject.org/c/s/amp.xhamster.com/"
+    }, 
+    {
+        "ampUrl": "https://amp.suara.com/", 
+        "originalUrl": "https://www.suara.com", 
+        "cdnAmpUrl": "https://amp-suara-com.cdn.ampproject.org/c/s/amp.suara.com/"
+    }
+][][
+    {
+        "ampUrl": "https://m.tribunnews.com/amp", 
+        "originalUrl": "https://www.tribunnews.com", 
+        "cdnAmpUrl": "https://m-tribunnews-com.cdn.ampproject.org/c/s/m.tribunnews.com/amp"
+    }
+]
